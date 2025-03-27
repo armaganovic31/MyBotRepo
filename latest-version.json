@@ -1,4 +1,5 @@
 {
-    "version": "1.3.0",
-    "url": "https://github.com/armaganovic31/MyBotRepo/blob/main/MysTBot.exe"
+  "version": "1.3.0",
+  "url": "https://github.com/armaganovic31/MyBotRepo/releases/download/v1.3.0/MysTBot.exe",
+  "updater_url": "https://github.com/armaganovic31/MyBotRepo/releases/download/v1.3.0/updater.exe"
 }
