@@ -1,5 +1,7 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "url": "https://github.com/armaganovic31/MyBotRepo/raw/main/MysTBot.exe",
-  "updater_url": "https://github.com/armaganovic31/MyBotRepo/raw/main/updater.exe"
+  "updater_url": "https://github.com/armaganovic31/MyBotRepo/raw/main/updater.exe",
+  "visuals_url": "https://github.com/armaganovic31/MyBotRepo/raw/main/visuals.rar",
+  "models_url": "https://github.com/armaganovic31/MyBotRepo/raw/main/models.rar"
 }
